@@ -8,4 +8,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("11");
 	}
+	public void stm(){
+		System.out.println("0000");
+	}
 }
